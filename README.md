@@ -10,10 +10,10 @@ In this project, I will apply data modeling with Apache Cassandra and build the 
 
 In this file, I will apply data modeling with Apache Cassandra and build the Sparkify keyspace using Python. The process includes the following steps:
 
-1 - Gather data from various CSV files and combine them into a single, cleaned file called event_datafile_new.csv .
-2 - Create the keyspace `sparkify` and tables `[session_item, user_session, user_song]` based on specific queries.
-3 - Transfer the data from event_datafile_new into the created tables.
-4 - Query the data from the tables to retrieve the results and ensure the data has been correctly transferred and stored.
+- Gather data from various CSV files and combine them into a single, cleaned file called event_datafile_new.csv .
+- Create the keyspace `sparkify` and tables `[session_item, user_session, user_song]` based on specific queries.
+- Transfer the data from event_datafile_new into the created tables.
+- Query the data from the tables to retrieve the results and ensure the data has been correctly transferred and stored.
 
 
 
